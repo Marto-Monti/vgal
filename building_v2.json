@@ -1,0 +1,127 @@
+{
+  "root": {
+    "parent": "none",
+    "resource": "root.glb",
+    "template": "T_root_B.glb",
+    "Forner": {
+      "resource": "Forner.glb",
+      "resource_type": "door"
+    }
+  },
+  "Forner": {
+    "parent": "root",
+    "resource": "Forner.glb",
+    "template": "T_small_B.glb",
+    "12a7abd275b34c439855f2736d388716": {
+      "resource": "/Forner/12a7abd275b34c439855f2736d388716.png",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "68.57",
+      "location": "[14.922,7.706,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #0 12a7abd275b34c439855f2736d388716"
+    },
+    "24241@2x": {
+      "resource": "/Forner/24241@2x.jpg",
+      "resource_type": "image",
+      "width": "85.35",
+      "height": "120.00",
+      "location": "[-14.929,-7.915,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #1 24241@2x"
+    },
+    "forner2": {
+      "resource": "/Forner/forner2.jpg",
+      "resource_type": "image",
+      "width": "95.57",
+      "height": "120.00",
+      "location": "[5.350,14.922,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #2 forner2"
+    },
+    "forner3": {
+      "resource": "/Forner/forner3.jpg",
+      "resource_type": "image",
+      "width": "85.36",
+      "height": "120.00",
+      "location": "[-8.078,14.912,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #3 forner3"
+    },
+    "forner4": {
+      "resource": "/Forner/forner4.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "86.86",
+      "location": "[8.021,-14.926,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #4 forner4"
+    },
+    "hrsc1": {
+      "resource": "/Forner/hrsc1.jpg",
+      "resource_type": "image",
+      "width": "89.85",
+      "height": "120.00",
+      "location": "[-8.078,-14.926,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #5 hrsc1"
+    },
+    "hrsc2": {
+      "resource": "/Forner/hrsc2.jpg",
+      "resource_type": "image",
+      "width": "88.16",
+      "height": "120.00",
+      "location": "[14.922,-0.016,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #6 hrsc2"
+    },
+    "hrsc3": {
+      "resource": "/Forner/hrsc3.jpg",
+      "resource_type": "image",
+      "width": "86.17",
+      "height": "120.00",
+      "location": "[-14.929,-0.384,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #7 hrsc3"
+    },
+    "istockphoto-489121054-612x612": {
+      "resource": "/Forner/istockphoto-489121054-612x612.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "120.00",
+      "location": "[14.922,-7.738,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #8 istockphoto-489121054-612x612"
+    },
+    "paredblanca": {
+      "resource": "/Forner/paredblanca.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "80.00",
+      "location": "[-14.929,7.508,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #9 paredblanca"
+    },
+    "plano_bellas_artes": {
+      "resource": "/Forner/plano_bellas_artes.jpg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "84.83",
+      "location": "[10.438,14.922,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #10 plano_bellas_artes"
+    },
+    "root": {
+      "resource": "root.glb",
+      "resource_type": "door"
+    }
+  },
+  "Technical": {
+    "ambientLight": 0.5,
+    "pointLight": 50,
+    "style": "classic",
+    "show_plaques": true,
+    "show_frames": false,
+    "skip_hub": false
+  }
+}
